@@ -10,7 +10,7 @@ To change main page header, ``_includes/header.html``
 
 To change main page footer, ``_includes/footer.html`` 
 
-To change post sidebar: ``_includes/sidebar.html``
+To change post sidebar: ``_includes/sidebar.html``  Includes code to add 'recent articles' box.
 
 
 
