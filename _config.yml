@@ -24,7 +24,7 @@ default-image: default.jpg # If there is no featured image in a post then this i
 # Build settings
 markdown: kramdown
 permalink: /:title/
-paginate: 6
+paginate: 3
 paginate_path: /page:num/
 
 # Tracker
