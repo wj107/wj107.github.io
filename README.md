@@ -1,8 +1,6 @@
-Demo: [http://webjeda.com/cards](http://webjeda.com/cards)
+## Customize
 
-## Installation
-* Fork the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready.
+To change stuff....
 
-For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
+
+[Original website theme.](https://github.com/sharu725/cards)
