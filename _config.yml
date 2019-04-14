@@ -20,11 +20,11 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 
 #footer
 
-built-by: webjeda
+built-by: d00f
 
 copyright:
-   name: webjeda
-   link: 'http://blog.webjeda.com'
+   name: none
+   link: 'http://www.happy.com'
 
 # Build settings
 markdown: kramdown
@@ -33,29 +33,29 @@ paginate: 6
 paginate_path: /page:num/
 
 # Tracker
-analytics: UA-83979019-1
+#analytics: UA-83979019-1
 
 # Comments
-disqus: yes
-disqus-shortname: webjeda-demo
+#disqus: yes
+#disqus-shortname: webjeda-demo
 
 #social
-facebook: http://facebook.com/webjeda
-quora: http://quora.com/sharathdt
+#facebook: http://facebook.com/webjeda
+#quora: http://quora.com/sharathdt
 twitter: http://twitter.com/@webjeda
 github: http://github.com/webjeda
 email: hello@webjeda.com
 
 #facebook like box
-fb-like-box: yes
-fb-app-id: 549480635219583
-fb-page-url: https://www.facebook.com/webjeda/
-fb-page-title: webjeda
+#fb-like-box: yes
+#fb-app-id: 549480635219583
+#fb-page-url: https://www.facebook.com/webjeda/
+#fb-page-title: webjeda
 
 # Sass style
 sass:
   style: compressed
 
 # Ruby Gems
-plugins: [jekyll-paginate, jekyll-seo-tag]
+#plugins: [jekyll-paginate, jekyll-seo-tag]
 
