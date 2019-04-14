@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Will Johnson
 img: will.jpg
 permalink: /about/
