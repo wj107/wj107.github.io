@@ -1,0 +1,31 @@
+---
+title: "new post1"
+author: "wj107"
+date: "April 14, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Post
+
+This is a post -- with R code, too!!
+
+```{r}
+round(runif(10,50,100),0)->samp
+
+samp
+
+```
+
+## Did you see...
+
+The random numbers above?
+
+```{r}
+hist(samp)
+```
+
+Graph 'em??? Yep!!
