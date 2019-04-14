@@ -1,7 +1,9 @@
 ---
-title: "new post1"
-author: "wj107"
-date: "April 14, 2019"
+layout: post
+title:  "Test Post 3"
+date:   2019-04-14 10:00
+categories: test
+img: testpost3.png
 output: html_document
 ---
 
