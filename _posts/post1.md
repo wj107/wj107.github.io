@@ -6,10 +6,6 @@ img: post1.png
 categories: two
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Learning to map in R!
 
 I learned `ggmap` a couple years back, but never got beyond making a couple extremely basic maps.  There's more to learn -- experimenting in a notebook seems like a viable approach.  I need to talk (type) out my ideas, and the code needs to, well... map.
