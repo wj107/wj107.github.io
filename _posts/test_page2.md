@@ -1,0 +1,15 @@
+TEST PAGE 2
+-----------
+
+So I can get R markdown into my pages! Hooray.
+
+Next step: images? First, look to see if there is a correlation between
+x and y:
+
+    x<-rnorm(100)
+    y<-3*x + rnorm(100,0,0.2)
+    dat<-data.frame(x,y,z=sample(c(0,1),100,T,c(0.8,0.2)))
+
+    ggplot(dat, aes(x,y))+geom_point()
+
+![](test_page2_files/figure-markdown_strict/unnamed-chunk-1-1.png)
